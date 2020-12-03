@@ -2,6 +2,8 @@
 
 [![yjj8353's github stats](https://github-readme-stats.vercel.app/api?username=yjj8353)](https://github.com/yjj8353)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjj8353)](https://github.com/yjj8353)
+
 <!--
 **yjj8353/yjj8353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
